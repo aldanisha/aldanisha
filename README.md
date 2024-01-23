@@ -1,7 +1,5 @@
-//Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Aldanisha Muadz here
-
 <h1 align="center">Hey there! 👋 Aldanisha here :)</h1>
-- 👨‍💻 All of my projects are available at [https://open.spotify.com/user/achamuadz-my?si=z_BWP7xFTeGZ6qvrSaiCWQ]
+- 👨‍💻 All of my projects are available at https://open.spotify.com/user/achamuadz-my?si=z_BWP7xFTeGZ6qvrSaiCWQ
 
 - 📫 How to reach me **aldanishamuadz@graduate.utm.my**
 
