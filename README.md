@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋 Aldanisha here :)</h1>
-- 👨‍💻 All of my projects are available at https://open.spotify.com/user/achamuadz-my?si=z_BWP7xFTeGZ6qvrSaiCWQ
 
 - 📫 How to reach me **aldanishamuadz@graduate.utm.my**
 
